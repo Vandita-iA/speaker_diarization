@@ -116,7 +116,7 @@ All Python dependencies are pinned here. To regenerate after adding/updating:
 
 ## Project Structure
      ```bash
-     your-repo/
+     speaker_diarization/
      ├── SD_pyannote_v1.py         # Main script
      ├── all-requirements.txt      # Python dependencies
      └── README.md                 # This file
